@@ -1,37 +1,3 @@
-<p align="center">
-    <br/>
-    <a href="https://github.com/ziishaned/learn-regex">
-        <img src="https://i.imgur.com/bYwl7Vf.png" alt="Learn Regex">
-    </a>
-    <br /><br />
-    <p>
-        <a href="https://twitter.com/home?status=Learn%20regex%20the%20easy%20way%20by%20%40ziishaned%20http%3A//github.com/ziishaned/learn-regex">
-            <img src="https://img.shields.io/badge/twitter-tweet-blue.svg?style=flat-square"/>
-        </a>
-        <a href="https://twitter.com/ziishaned">
-            <img src="https://img.shields.io/badge/feedback-@ziishaned-blue.svg?style=flat-square" />
-        </a>
-    </p>
-</p>
-
-
-## 翻译：
-
-* [English](../README.md)
-* [Español](../translations/README-es.md)
-* [Français](../translations/README-fr.md)
-* [Português do Brasil](../translations/README-pt_BR.md)
-* [中文版](../translations/README-cn.md)
-* [日本語](../translations/README-ja.md)
-* [한국어](../translations/README-ko.md)
-* [Turkish](../translations/README-tr.md)
-* [Greek](../translations/README-gr.md)
-* [Magyar](../translations/README-hu.md)
-* [Polish](../translations/README-pl.md)
-* [Русский](../translations/README-ru.md)
-* [Tiếng Việt](../translations/README-vn.md)
-* [فارسی](../translations/README-fa.md)
-
 ## 什么是正则表达式？
 
 > 正则表达式是一组由字母和符号组成的特殊文本，它可以用来从文本中找出满足你想要的格式的句子。
@@ -503,14 +469,3 @@
 "/(.*?at)/" => <a href="#learn-regex"><strong>The fat</strong></a> cat sat on the mat. </pre>
 
 [在线练习](https://regex101.com/r/AyAdgJ/2)
-
-## 贡献
-
-* 报告问题
-* 开放合并请求
-* 传播此文档
-* 直接和我联系 ziishaned@gmail.com 或 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ziishaned.svg?style=social&label=Follow%20%40ziishaned)](https://twitter.com/ziishaned)
-
-## 许可证
-
-MIT &copy; [Zeeshan Ahmad](https://twitter.com/ziishaned)
